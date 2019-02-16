@@ -7,8 +7,9 @@ import webbrowser, sys, pyperclip, pyautogui, time #, requests, bs4
 if len(sys.argv) > 1:
     # Get address from command line.
     # sys arguments will come in an array with each token/word separately
-    s = '%20' #for spacing between words
-    text = s.join(sys.argv[1:])
+    #s = '%20' #for spacing between words
+    #text = s.join(sys.argv[1:])
+    text = ' '.join(sys.argv[1:])
     pyperclip.copy(text)
 else:
     # Get text from clipboard.
@@ -17,12 +18,13 @@ else:
 
 # testText = 'https://translate.google.com/#view=home&op=translate&sl=auto&tl=en&text=' + '안녕하세요'
 # print(testText)
-webbrowser.open('https://translate.google.com/#view=home&op=translate&sl=auto&tl=en&text=')
+enUrl = 'https://translate.google.com/#view=home&op=translate&sl=auto&tl=en'
+webbrowser.open(enUrl)
 
 pyautogui.PAUSE = 1
 pyautogui.FAILSAFE = True
 
-time.sleep(1.5)
+time.sleep(3)
 
 pyautogui.hotkey('command', 'v')
 
