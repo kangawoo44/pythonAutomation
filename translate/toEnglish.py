@@ -7,7 +7,7 @@ import webbrowser, sys, pyperclip, requests, bs4
 if len(sys.argv) > 1:
     # Get address from command line.
     # sys arguments will come in an array with each token/word separately
-    address = ' '.join(sys.argv[1:])
+    text = ' '.join(sys.argv[1:])
 else:
     # Get text from clipboard.
     # example text to translate to english: 안녕하세요
