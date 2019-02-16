@@ -9,6 +9,7 @@ if len(sys.argv) > 1:
     # sys arguments will come in an array with each token/word separately
     s = '%20' #for spacing between words
     text = s.join(sys.argv[1:])
+    pyperclip.copy(text)
 else:
     # Get text from clipboard.
     # example text to translate to english: 안녕하세요
@@ -21,7 +22,7 @@ webbrowser.open('https://translate.google.com/#view=home&op=translate&sl=auto&tl
 pyautogui.PAUSE = 1
 pyautogui.FAILSAFE = True
 
-time.sleep(1)
+time.sleep(1.5)
 
 pyautogui.hotkey('command', 'v')
 
