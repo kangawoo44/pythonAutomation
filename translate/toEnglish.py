@@ -21,13 +21,15 @@ webbrowser.open('https://translate.google.com/#view=home&op=translate&sl=auto&tl
 pyautogui.PAUSE = 1
 pyautogui.FAILSAFE = True
 
-time.sleep(2)
+time.sleep(1)
 
-print(text)
-textList = list(text)
-textList.append('enter')
-print(textList)
-pyautogui.typewrite(textList)
+pyautogui.hotkey('command', 'v')
+
+# print(text)
+# textList = list(text)
+# textList.append('enter')
+# print(textList)
+# pyautogui.typewrite(textList)
 
 #webbrowser.open('https://translate.google.com/%23view=home&op=translate&sl=auto&tl=en&text=what%20is%20the%20token')
 
