@@ -7,13 +7,16 @@ import webbrowser, sys, pyperclip, requests, bs4
 if len(sys.argv) > 1:
     # Get address from command line.
     # sys arguments will come in an array with each token/word separately
-    text = ' '.join(sys.argv[1:])
+    s = '%20' #for spacing between words
+    text = s.join(sys.argv[1:])
 else:
     # Get text from clipboard.
     # example text to translate to english: 안녕하세요
     text = pyperclip.paste()
 
 webbrowser.open('https://translate.google.com/#view=home&op=translate&sl=auto&tl=en&text=' + text)
+#webbrowser.open('https://translate.google.com/%23view=home&op=translate&sl=auto&tl=en&text=what%20is%20the%20token')
+
 # res = requests.get('https://translate.google.com/#view=home&op=translate&sl=auto&tl=en&text=' + text)
 # try:
 #     res.raise_for_status()
