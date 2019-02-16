@@ -15,6 +15,9 @@ else:
     text = pyperclip.paste()
 
 webbrowser.open('https://translate.google.com/#view=home&op=translate&sl=auto&tl=en&text=')
+
+pyautogui.PAUSE = 1
+pyautogui.FAILSAFE = True
 pyautogui.typewrite(text, 'enter')
 #webbrowser.open('https://translate.google.com/%23view=home&op=translate&sl=auto&tl=en&text=what%20is%20the%20token')
 
