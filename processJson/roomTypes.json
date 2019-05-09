@@ -1,177 +1,34 @@
-1: Tea/Coffee Maker
-2: Internet Facilities
-3: Minibar
-4: Shower
-5: Bath
-6: Safety Deposit Box
-7: Pay-per-view Channels
-8: TV
-9: Telephone
-10: Fax
-11: Air conditioning
-12: Hairdryer
-13: Wake Up Service/Alarm Clock
-14: Hot Tub
-15: Iron
-16: Kitchenette
-17: Balcony
-18: Trouser Press
-19: Bathrobe
-20: Spa Bath
-21: Radio
-22: Refrigerator
-23: Desk
-24: Shared Bathroom
-25: Ironing Facilities
-26: Seating Area
-27: Free toiletries
-28: DVD Player
-29: CD Player
-30: Fan
-31: Toilet
-32: Microwave
-33: Dishwasher
-34: Washing Machine
-35: Video
-36: Video Games
-37: Patio
-38: Private bathroom
-39: Extra Long Beds (> 2 metres)
-40: Heating
-41: Dressing Room
-42: Shared Toilet
-43: Slippers
-44: Satellite Channels
-45: Kitchen
-46: Wireless Internet
-68: Cable Channels
-69: Bath or Shower
-70: Carpeted
-71: Fireplace
-72: Additional Toilet
-73: Interconnected room(s) available
-74: Laptop safe
-75: Flat-screen TV
-76: Private entrance
-77: Sofa
-79: Soundproofing
-80: Tile/Marble floor
-81: View
-82: Hardwood or parquet floors
-83: Wake-up service
-84: Alarm clock
-85: Dining area
-86: Electric kettle
-87: Executive Lounge Access
-88: iPod dock
-89: Kitchenware
-90: Mosquito net
-91: Towels/Sheets (extra fee)
-92: Sauna
-93: Private pool
-94: Tumble dryer
-95: Wardrobe or closet
-96: Oven
-97: Stovetop
-98: Toaster
-99: Barbecue
-100: Bidet
-101: Computer
-102: iPad
-103: Game console
-104: Game console - Xbox 360
-105: Game console - PS2
-106: Game console - PS3
-107: Game console - Nintendo Wii
-108: Sea view
-109: Lake view
-110: Garden view
-111: Pool view
-112: Mountain view
-113: Landmark view
-114: Laptop
-115: Hypoallergenic
-116: Cleaning products
-117: Electric blankets
-118: Additional bathroom
-119: Blu-ray player
-120: Coffee machine
-121: City view
-122: River view
-123: Terrace
-124: Towels
-125: Linen
-126: Dining table
-127: Children's high chair
-129: Outdoor furniture
-130: Outdoor dining area
-131: Entire unit located on ground floor
-132: Upper floors accessible by lift
-133: Upper floors accessible by stairs only
-134: Entire unit wheelchair accessible
-135: Detached
-136: Semi-detached
-137: Private flat in building
-138: Clothes rack
-139: Fold-up bed
-140: Drying rack for clothing
-141: Toilet paper
-142: Child safety socket covers
-143: Board games/puzzles
-144: Books, DVDs or music for children
-145: Baby safety gates
-146: Sofa bed
-147: Toilet with grab rails
-148: Adapted bath
-149: Roll in shower
-150: Walk in shower
-151: Raised toilet
-152: Lowered sink
-153: Emergency cord in bathroom
-154: Shower chair
-157: Rooftop pool
-158: Infinity pool
-159: Pool with a view
-160: Heated pool
-161: Salt-water pool
-162: Plunge pool
-163: Pool towels
-164: Shallow end
-165: Pool cover
-166: Wine or champagne
-167: Bottle of water
-168: Fruits
-169: Chocolate or cookies
-170: Trash cans
-171: Wine glasses
-172: Game console - Xbox One
-173: Game console - Wii U
-174: Game console - PS4
-175: Children's cots/cribs
-176: Toothbrush
-177: Shampoo
-178: Conditioner
-179: Body soap
-180: Shower cap
-181: Pajamas
-182: Yukata
-184: Socket near the bed
-185: Adapter
-186: Feather pillow
-187: Non-feather pillow
-188: Hypoallergenic pillow
-189: Accessible by lift
-190: Inner courtyard view
-191: Quiet street view
-196: Portable Wifi
-198: Smartphone
-199: Streaming service (such as Netflix)
-200: Lockers
-201: Smoke alarm
-202: Fire extinguisher
-203: Key access
-204: Key card access
-205: Reading light
-206: Earplugs
-207: Privacy curtain
-208: window
+1: 'Apartment',
+2: 'Presidential Suite',
+3: 'Bridal Suite',
+4: 'Quadruple',
+5: 'Suite',
+6: 'Junior Suite',
+7: 'Triple',
+8: 'Twin',
+9: 'Double',
+10: 'Single',
+11: 'Executive Suite',
+12: 'Studio',
+13: 'Family',
+14: 'Business Suite',
+15: 'Penthouse',
+17: 'Chalet',
+18: 'Royal Suite',
+19: 'Bungalow/Chalet',
+20: 'unknown',
+21: 'Executive Room',
+22: 'Superior Room',
+23: 'Double for Single Use',
+24: 'Twin/Double',
+25: 'Dormitory Room',
+26: 'Bed in Dormitory',
+27: 'Bungalow',
+28: 'Chalet',
+29: 'Holiday Home',
+30: 'Mobile home/Tent',
+31: 'Villa',
+32: 'Mobile Home',
+33: 'Tent',
+35: 'Empty spot',
+36: 'BBasic Room',

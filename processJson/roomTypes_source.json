@@ -1,0 +1,347 @@
+{
+    "result": [
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Apartment"
+                }
+            ],
+            "name": "Apartment",
+            "room_type_id": 1
+        },
+        {
+            "name": "Presidential Suite",
+            "translations": [
+                {
+                    "name": "Presidential Suite",
+                    "language": "en"
+                }
+            ],
+            "room_type_id": 2
+        },
+        {
+            "name": "Bridal Suite",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Bridal Suite"
+                }
+            ],
+            "room_type_id": 3
+        },
+        {
+            "name": "Quadruple",
+            "translations": [
+                {
+                    "name": "Quadruple",
+                    "language": "en"
+                }
+            ],
+            "room_type_id": 4
+        },
+        {
+            "name": "Suite",
+            "translations": [
+                {
+                    "name": "Suite",
+                    "language": "en"
+                }
+            ],
+            "room_type_id": 5
+        },
+        {
+            "translations": [
+                {
+                    "name": "Junior Suite",
+                    "language": "en"
+                }
+            ],
+            "name": "Junior Suite",
+            "room_type_id": 6
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Triple"
+                }
+            ],
+            "name": "Triple",
+            "room_type_id": 7
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Twin"
+                }
+            ],
+            "name": "Twin",
+            "room_type_id": 8
+        },
+        {
+            "name": "Double",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Double"
+                }
+            ],
+            "room_type_id": 9
+        },
+        {
+            "translations": [
+                {
+                    "name": "Single",
+                    "language": "en"
+                }
+            ],
+            "name": "Single",
+            "room_type_id": 10
+        },
+        {
+            "translations": [
+                {
+                    "name": "Executive Suite",
+                    "language": "en"
+                }
+            ],
+            "name": "Executive Suite",
+            "room_type_id": 11
+        },
+        {
+            "translations": [
+                {
+                    "name": "Studio",
+                    "language": "en"
+                }
+            ],
+            "name": "Studio",
+            "room_type_id": 12
+        },
+        {
+            "room_type_id": 13,
+            "translations": [
+                {
+                    "name": "Family",
+                    "language": "en"
+                }
+            ],
+            "name": "Family"
+        },
+        {
+            "room_type_id": 14,
+            "name": "Business Suite",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Business Suite"
+                }
+            ]
+        },
+        {
+            "name": "Penthouse",
+            "translations": [
+                {
+                    "name": "Penthouse",
+                    "language": "en"
+                }
+            ],
+            "room_type_id": 15
+        },
+        {
+            "room_type_id": 17,
+            "name": "Chalet",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Chalet"
+                }
+            ]
+        },
+        {
+            "name": "Royal Suite",
+            "translations": [
+                {
+                    "name": "Royal Suite",
+                    "language": "en"
+                }
+            ],
+            "room_type_id": 18
+        },
+        {
+            "room_type_id": 19,
+            "name": "Bungalow/Chalet",
+            "translations": [
+                {
+                    "name": "Bungalow/Chalet",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "room_type_id": 20,
+            "name": "unknown",
+            "translations": [
+                {
+                    "name": "unknown",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "room_type_id": 21,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Executive Room"
+                }
+            ],
+            "name": "Executive Room"
+        },
+        {
+            "name": "Superior Room",
+            "translations": [
+                {
+                    "name": "Superior Room",
+                    "language": "en"
+                }
+            ],
+            "room_type_id": 22
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Double for Single Use"
+                }
+            ],
+            "name": "Double for Single Use",
+            "room_type_id": 23
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Twin/Double"
+                }
+            ],
+            "name": "Twin/Double",
+            "room_type_id": 24
+        },
+        {
+            "name": "Dormitory Room",
+            "translations": [
+                {
+                    "name": "Dormitory Room",
+                    "language": "en"
+                }
+            ],
+            "room_type_id": 25
+        },
+        {
+            "room_type_id": 26,
+            "translations": [
+                {
+                    "name": "Bed in Dormitory",
+                    "language": "en"
+                }
+            ],
+            "name": "Bed in Dormitory"
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Bungalow"
+                }
+            ],
+            "name": "Bungalow",
+            "room_type_id": 27
+        },
+        {
+            "room_type_id": 28,
+            "name": "Chalet",
+            "translations": [
+                {
+                    "name": "Chalet",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "room_type_id": 29,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Holiday Home"
+                }
+            ],
+            "name": "Holiday Home"
+        },
+        {
+            "translations": [
+                {
+                    "name": "Mobile home/Tent",
+                    "language": "en"
+                }
+            ],
+            "name": "Mobile home/Tent",
+            "room_type_id": 30
+        },
+        {
+            "translations": [
+                {
+                    "name": "Villa",
+                    "language": "en"
+                }
+            ],
+            "name": "Villa",
+            "room_type_id": 31
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Mobile Home"
+                }
+            ],
+            "name": "Mobile Home",
+            "room_type_id": 32
+        },
+        {
+            "name": "Tent",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Tent"
+                }
+            ],
+            "room_type_id": 33
+        },
+        {
+            "room_type_id": 35,
+            "name": "Empty spot",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Empty spot"
+                }
+            ]
+        },
+        {
+            "translations": [
+                {
+                    "name": "BBasic Room",
+                    "language": "en"
+                }
+            ],
+            "name": "BBasic Room",
+            "room_type_id": 36
+        }
+    ],
+    "meta": {
+        "ruid": "UmFuZG9tSVYkc2RlIyh9YU97524RtkiXgkLNE6A4j2LcTWJ2gpgrUuJ4E7gYxpdsh6HW2B9nfSQwvG2UrMLvmQeVcltkaEOnoojGC9d4H2M="
+    }
+}

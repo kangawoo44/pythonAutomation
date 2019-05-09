@@ -1,0 +1,3019 @@
+{
+    "result": [
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Parking"
+                }
+            ],
+            "name": "Parking",
+            "facility_type_id": 1,
+            "type": "boolean",
+            "hotel_facility_type_id": 2
+        },
+        {
+            "translations": [
+                {
+                    "name": "Restaurant",
+                    "language": "en"
+                }
+            ],
+            "facility_type_id": 7,
+            "name": "Restaurant",
+            "type": "boolean",
+            "hotel_facility_type_id": 3
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 4,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Pets allowed"
+                }
+            ],
+            "name": "Pets allowed",
+            "facility_type_id": 1
+        },
+        {
+            "hotel_facility_type_id": 5,
+            "type": "boolean",
+            "name": "Room service",
+            "facility_type_id": 7,
+            "translations": [
+                {
+                    "name": "Room service",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "name": "Meeting/banquet facilities",
+            "facility_type_id": 27,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Meeting/banquet facilities"
+                }
+            ],
+            "hotel_facility_type_id": 6,
+            "type": "free_or_paid"
+        },
+        {
+            "hotel_facility_type_id": 7,
+            "type": "boolean",
+            "name": "Bar",
+            "facility_type_id": 7,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Bar"
+                }
+            ]
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "24-hour front desk"
+                }
+            ],
+            "name": "24-hour front desk",
+            "facility_type_id": 23,
+            "type": "boolean",
+            "hotel_facility_type_id": 8
+        },
+        {
+            "hotel_facility_type_id": 9,
+            "type": "free_or_paid",
+            "facility_type_id": 2,
+            "name": "Tennis court",
+            "translations": [
+                {
+                    "name": "Tennis court",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "hotel_facility_type_id": 10,
+            "type": "free_or_paid",
+            "name": "Sauna",
+            "facility_type_id": 21,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Sauna"
+                }
+            ]
+        },
+        {
+            "hotel_facility_type_id": 11,
+            "type": "free_or_paid",
+            "facility_type_id": 21,
+            "name": "Fitness centre",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Fitness centre"
+                }
+            ]
+        },
+        {
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 12,
+            "translations": [
+                {
+                    "name": "Golf course (within 3 km)",
+                    "language": "en"
+                }
+            ],
+            "facility_type_id": 2,
+            "name": "Golf course (within 3 km)"
+        },
+        {
+            "hotel_facility_type_id": 13,
+            "type": "free_or_paid",
+            "facility_type_id": 23,
+            "name": "Newspapers",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Newspapers"
+                }
+            ]
+        },
+        {
+            "hotel_facility_type_id": 14,
+            "type": "boolean",
+            "facility_type_id": 24,
+            "name": "Garden",
+            "translations": [
+                {
+                    "name": "Garden",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "hotel_facility_type_id": 15,
+            "type": "boolean",
+            "name": "Terrace",
+            "facility_type_id": 24,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Terrace"
+                }
+            ]
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 16,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Non-smoking rooms"
+                }
+            ],
+            "name": "Non-smoking rooms",
+            "facility_type_id": 29
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Airport shuttle"
+                }
+            ],
+            "facility_type_id": 22,
+            "name": "Airport shuttle",
+            "type": "boolean",
+            "hotel_facility_type_id": 17
+        },
+        {
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 19,
+            "translations": [
+                {
+                    "name": "Fishing",
+                    "language": "en"
+                }
+            ],
+            "name": "Fishing",
+            "facility_type_id": 2
+        },
+        {
+            "hotel_facility_type_id": 20,
+            "type": "free_or_paid",
+            "name": "Business centre",
+            "facility_type_id": 27,
+            "translations": [
+                {
+                    "name": "Business centre",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "facility_type_id": 25,
+            "name": "Babysitting/child services",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Babysitting/child services"
+                }
+            ],
+            "hotel_facility_type_id": 21,
+            "type": "free_or_paid"
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Laundry"
+                }
+            ],
+            "facility_type_id": 26,
+            "name": "Laundry",
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 22
+        },
+        {
+            "hotel_facility_type_id": 23,
+            "type": "free_or_paid",
+            "name": "Dry cleaning",
+            "facility_type_id": 26,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Dry cleaning"
+                }
+            ]
+        },
+        {
+            "hotel_facility_type_id": 24,
+            "type": "boolean",
+            "facility_type_id": 1,
+            "name": "Continental breakfast",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Continental breakfast"
+                }
+            ]
+        },
+        {
+            "hotel_facility_type_id": 25,
+            "type": "boolean",
+            "facility_type_id": 29,
+            "name": "Facilities for disabled guests",
+            "translations": [
+                {
+                    "name": "Facilities for disabled guests",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "name": "Skiing",
+            "facility_type_id": 2,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Skiing"
+                }
+            ],
+            "hotel_facility_type_id": 26,
+            "type": "boolean"
+        },
+        {
+            "facility_type_id": 28,
+            "name": "Barber/beauty shop",
+            "translations": [
+                {
+                    "name": "Barber/beauty shop",
+                    "language": "en"
+                }
+            ],
+            "hotel_facility_type_id": 27,
+            "type": "boolean"
+        },
+        {
+            "facility_type_id": 29,
+            "name": "Family rooms",
+            "translations": [
+                {
+                    "name": "Family rooms",
+                    "language": "en"
+                }
+            ],
+            "hotel_facility_type_id": 28,
+            "type": "boolean"
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 29,
+            "translations": [
+                {
+                    "name": "Games room",
+                    "language": "en"
+                }
+            ],
+            "name": "Games room",
+            "facility_type_id": 24
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 30,
+            "translations": [
+                {
+                    "name": "Casino",
+                    "language": "en"
+                }
+            ],
+            "name": "Casino",
+            "facility_type_id": 25
+        },
+        {
+            "hotel_facility_type_id": 41,
+            "type": "boolean",
+            "facility_type_id": 29,
+            "name": "VIP room facilities",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "VIP room facilities"
+                }
+            ]
+        },
+        {
+            "hotel_facility_type_id": 43,
+            "type": "boolean",
+            "facility_type_id": 7,
+            "name": "Breakfast in the room",
+            "translations": [
+                {
+                    "name": "Breakfast in the room",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Ironing service"
+                }
+            ],
+            "name": "Ironing service",
+            "facility_type_id": 26,
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 44
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 45,
+            "translations": [
+                {
+                    "name": "Bridal suite",
+                    "language": "en"
+                }
+            ],
+            "name": "Bridal suite",
+            "facility_type_id": 29
+        },
+        {
+            "hotel_facility_type_id": 46,
+            "type": "boolean",
+            "facility_type_id": 1,
+            "name": "Free parking",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Free parking"
+                }
+            ]
+        },
+        {
+            "translations": [
+                {
+                    "name": "Internet services",
+                    "language": "en"
+                }
+            ],
+            "name": "Internet services",
+            "facility_type_id": 3,
+            "type": "boolean",
+            "hotel_facility_type_id": 47
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 48,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Lift"
+                }
+            ],
+            "name": "Lift",
+            "facility_type_id": 29
+        },
+        {
+            "name": "Express check-in/check-out",
+            "facility_type_id": 23,
+            "translations": [
+                {
+                    "name": "Express check-in/check-out",
+                    "language": "en"
+                }
+            ],
+            "hotel_facility_type_id": 49,
+            "type": "free_or_paid"
+        },
+        {
+            "translations": [
+                {
+                    "name": "Solarium",
+                    "language": "en"
+                }
+            ],
+            "facility_type_id": 21,
+            "name": "Solarium",
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 50
+        },
+        {
+            "name": "Safety deposit box",
+            "facility_type_id": 23,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Safety deposit box"
+                }
+            ],
+            "hotel_facility_type_id": 51,
+            "type": "free_or_paid"
+        },
+        {
+            "hotel_facility_type_id": 52,
+            "type": "free_or_paid",
+            "facility_type_id": 23,
+            "name": "Valet parking",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Valet parking"
+                }
+            ]
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Currency exchange"
+                }
+            ],
+            "name": "Currency exchange",
+            "facility_type_id": 23,
+            "type": "boolean",
+            "hotel_facility_type_id": 53
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Spa and wellness centre"
+                }
+            ],
+            "name": "Spa and wellness centre",
+            "facility_type_id": 21,
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 54
+        },
+        {
+            "hotel_facility_type_id": 55,
+            "type": "free_or_paid",
+            "facility_type_id": 21,
+            "name": "Massage",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Massage"
+                }
+            ]
+        },
+        {
+            "hotel_facility_type_id": 56,
+            "type": "boolean",
+            "facility_type_id": 25,
+            "name": "Children's playground",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Children's playground"
+                }
+            ]
+        },
+        {
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 57,
+            "translations": [
+                {
+                    "name": "Billiards",
+                    "language": "en"
+                }
+            ],
+            "name": "Billiards",
+            "facility_type_id": 2
+        },
+        {
+            "name": "Table tennis",
+            "facility_type_id": 2,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Table tennis"
+                }
+            ],
+            "hotel_facility_type_id": 58,
+            "type": "free_or_paid"
+        },
+        {
+            "hotel_facility_type_id": 59,
+            "type": "free_or_paid",
+            "name": "Karaoke",
+            "facility_type_id": 25,
+            "translations": [
+                {
+                    "name": "Karaoke",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Gift shop"
+                }
+            ],
+            "name": "Gift shop",
+            "facility_type_id": 28,
+            "type": "boolean",
+            "hotel_facility_type_id": 60
+        },
+        {
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 61,
+            "translations": [
+                {
+                    "name": "Windsurfing",
+                    "language": "en"
+                }
+            ],
+            "name": "Windsurfing",
+            "facility_type_id": 2
+        },
+        {
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 62,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Darts"
+                }
+            ],
+            "name": "Darts",
+            "facility_type_id": 2
+        },
+        {
+            "hotel_facility_type_id": 63,
+            "type": "free_or_paid",
+            "facility_type_id": 21,
+            "name": "Hot tub/jacuzzi",
+            "translations": [
+                {
+                    "name": "Hot tub/jacuzzi",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 64,
+            "translations": [
+                {
+                    "name": "Soundproof rooms",
+                    "language": "en"
+                }
+            ],
+            "facility_type_id": 29,
+            "name": "Soundproof rooms"
+        },
+        {
+            "name": "Bicycle rental (additional charge)",
+            "facility_type_id": 22,
+            "translations": [
+                {
+                    "name": "Bicycle rental (additional charge)",
+                    "language": "en"
+                }
+            ],
+            "hotel_facility_type_id": 65,
+            "type": "boolean"
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 66,
+            "translations": [
+                {
+                    "name": "Library",
+                    "language": "en"
+                }
+            ],
+            "name": "Library",
+            "facility_type_id": 24
+        },
+        {
+            "name": "Shoeshine",
+            "facility_type_id": 26,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Shoeshine"
+                }
+            ],
+            "hotel_facility_type_id": 67,
+            "type": "free_or_paid"
+        },
+        {
+            "hotel_facility_type_id": 69,
+            "type": "free_or_paid",
+            "name": "Canoeing",
+            "facility_type_id": 2,
+            "translations": [
+                {
+                    "name": "Canoeing",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 70,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Hiking"
+                }
+            ],
+            "name": "Hiking",
+            "facility_type_id": 2
+        },
+        {
+            "facility_type_id": 24,
+            "name": "Chapel/shrine",
+            "translations": [
+                {
+                    "name": "Chapel/shrine",
+                    "language": "en"
+                }
+            ],
+            "hotel_facility_type_id": 71,
+            "type": "boolean"
+        },
+        {
+            "facility_type_id": 7,
+            "name": "BBQ facilities",
+            "translations": [
+                {
+                    "name": "BBQ facilities",
+                    "language": "en"
+                }
+            ],
+            "hotel_facility_type_id": 72,
+            "type": "free_or_paid"
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Packed lunches"
+                }
+            ],
+            "name": "Packed lunches",
+            "facility_type_id": 7,
+            "type": "boolean",
+            "hotel_facility_type_id": 73
+        },
+        {
+            "translations": [
+                {
+                    "name": "Car hire",
+                    "language": "en"
+                }
+            ],
+            "name": "Car hire",
+            "facility_type_id": 22,
+            "type": "boolean",
+            "hotel_facility_type_id": 75
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 76,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Cycling"
+                }
+            ],
+            "name": "Cycling",
+            "facility_type_id": 2
+        },
+        {
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 77,
+            "translations": [
+                {
+                    "name": "Bowling",
+                    "language": "en"
+                }
+            ],
+            "name": "Bowling",
+            "facility_type_id": 2
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Tour desk"
+                }
+            ],
+            "facility_type_id": 23,
+            "name": "Tour desk",
+            "type": "boolean",
+            "hotel_facility_type_id": 78
+        },
+        {
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 79,
+            "translations": [
+                {
+                    "name": "Hammam",
+                    "language": "en"
+                }
+            ],
+            "name": "Hammam",
+            "facility_type_id": 21
+        },
+        {
+            "translations": [
+                {
+                    "name": "Heating",
+                    "language": "en"
+                }
+            ],
+            "facility_type_id": 29,
+            "name": "Heating",
+            "type": "boolean",
+            "hotel_facility_type_id": 80
+        },
+        {
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 81,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Fax/photocopying"
+                }
+            ],
+            "facility_type_id": 27,
+            "name": "Fax/photocopying"
+        },
+        {
+            "hotel_facility_type_id": 82,
+            "type": "free_or_paid",
+            "name": "Diving",
+            "facility_type_id": 2,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Diving"
+                }
+            ]
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Horse riding"
+                }
+            ],
+            "name": "Horse riding",
+            "facility_type_id": 2,
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 86
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Squash"
+                }
+            ],
+            "facility_type_id": 2,
+            "name": "Squash",
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 87
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 89,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Ticket service"
+                }
+            ],
+            "facility_type_id": 23,
+            "name": "Ticket service"
+        },
+        {
+            "translations": [
+                {
+                    "name": "Snorkelling",
+                    "language": "en"
+                }
+            ],
+            "facility_type_id": 2,
+            "name": "Snorkelling",
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 90
+        },
+        {
+            "translations": [
+                {
+                    "name": "Luggage storage",
+                    "language": "en"
+                }
+            ],
+            "facility_type_id": 23,
+            "name": "Luggage storage",
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 91
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Shops (on site)"
+                }
+            ],
+            "name": "Shops (on site)",
+            "facility_type_id": 28,
+            "type": "boolean",
+            "hotel_facility_type_id": 92
+        },
+        {
+            "translations": [
+                {
+                    "name": "WiFi",
+                    "language": "en"
+                }
+            ],
+            "facility_type_id": 3,
+            "name": "WiFi",
+            "type": "boolean",
+            "hotel_facility_type_id": 96
+        },
+        {
+            "hotel_facility_type_id": 97,
+            "type": "free_or_paid",
+            "facility_type_id": 2,
+            "name": "Mini golf",
+            "translations": [
+                {
+                    "name": "Mini golf",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "hotel_facility_type_id": 99,
+            "type": "free_or_paid",
+            "name": "Ski storage",
+            "facility_type_id": 2,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Ski storage"
+                }
+            ]
+        },
+        {
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 100,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Ski school"
+                }
+            ],
+            "name": "Ski school",
+            "facility_type_id": 2
+        },
+        {
+            "hotel_facility_type_id": 101,
+            "type": "boolean",
+            "facility_type_id": 29,
+            "name": "Allergy-free room",
+            "translations": [
+                {
+                    "name": "Allergy-free room",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "facility_type_id": 21,
+            "name": "Indoor pool",
+            "translations": [
+                {
+                    "name": "Indoor pool",
+                    "language": "en"
+                }
+            ],
+            "hotel_facility_type_id": 103,
+            "type": "free_or_paid"
+        },
+        {
+            "translations": [
+                {
+                    "name": "Outdoor pool",
+                    "language": "en"
+                }
+            ],
+            "facility_type_id": 21,
+            "name": "Outdoor pool",
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 104
+        },
+        {
+            "name": "Free WiFi",
+            "facility_type_id": 3,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Free WiFi"
+                }
+            ],
+            "hotel_facility_type_id": 107,
+            "type": "boolean"
+        },
+        {
+            "translations": [
+                {
+                    "name": "Non-smoking throughout",
+                    "language": "en"
+                }
+            ],
+            "name": "Non-smoking throughout",
+            "facility_type_id": 29,
+            "type": "boolean",
+            "hotel_facility_type_id": 108
+        },
+        {
+            "translations": [
+                {
+                    "name": "Air conditioning",
+                    "language": "en"
+                }
+            ],
+            "facility_type_id": 29,
+            "name": "Air conditioning",
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 109
+        },
+        {
+            "facility_type_id": 29,
+            "name": "Designated smoking area",
+            "translations": [
+                {
+                    "name": "Designated smoking area",
+                    "language": "en"
+                }
+            ],
+            "hotel_facility_type_id": 110,
+            "type": "boolean"
+        },
+        {
+            "name": "ATM/cash machine on site",
+            "facility_type_id": 23,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "ATM/cash machine on site"
+                }
+            ],
+            "hotel_facility_type_id": 111,
+            "type": "boolean"
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Private beach area"
+                }
+            ],
+            "facility_type_id": 21,
+            "name": "Private beach area",
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 114
+        },
+        {
+            "facility_type_id": 7,
+            "name": "Restaurant (à la carte)",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Restaurant (à la carte)"
+                }
+            ],
+            "hotel_facility_type_id": 115,
+            "type": "boolean"
+        },
+        {
+            "name": "Restaurant (buffet)",
+            "facility_type_id": 7,
+            "translations": [
+                {
+                    "name": "Restaurant (buffet)",
+                    "language": "en"
+                }
+            ],
+            "hotel_facility_type_id": 116,
+            "type": "boolean"
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Snack bar"
+                }
+            ],
+            "facility_type_id": 7,
+            "name": "Snack bar",
+            "type": "boolean",
+            "hotel_facility_type_id": 117
+        },
+        {
+            "hotel_facility_type_id": 118,
+            "type": "boolean",
+            "facility_type_id": 24,
+            "name": "Sun terrace",
+            "translations": [
+                {
+                    "name": "Sun terrace",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "hotel_facility_type_id": 119,
+            "type": "free_or_paid",
+            "name": "Outdoor pool (all year)",
+            "facility_type_id": 21,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Outdoor pool (all year)"
+                }
+            ]
+        },
+        {
+            "translations": [
+                {
+                    "name": "Outdoor pool (seasonal)",
+                    "language": "en"
+                }
+            ],
+            "name": "Outdoor pool (seasonal)",
+            "facility_type_id": 21,
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 120
+        },
+        {
+            "hotel_facility_type_id": 121,
+            "type": "free_or_paid",
+            "facility_type_id": 21,
+            "name": "Indoor pool (all year)",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Indoor pool (all year)"
+                }
+            ]
+        },
+        {
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 122,
+            "translations": [
+                {
+                    "name": "Indoor pool (seasonal)",
+                    "language": "en"
+                }
+            ],
+            "facility_type_id": 21,
+            "name": "Indoor pool (seasonal)"
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Bikes available (free)"
+                }
+            ],
+            "name": "Bikes available (free)",
+            "facility_type_id": 22,
+            "type": "boolean",
+            "hotel_facility_type_id": 123
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 124,
+            "translations": [
+                {
+                    "name": "Concierge service",
+                    "language": "en"
+                }
+            ],
+            "name": "Concierge service",
+            "facility_type_id": 23
+        },
+        {
+            "facility_type_id": 25,
+            "name": "Entertainment staff",
+            "translations": [
+                {
+                    "name": "Entertainment staff",
+                    "language": "en"
+                }
+            ],
+            "hotel_facility_type_id": 125,
+            "type": "boolean"
+        },
+        {
+            "name": "Nightclub/DJ",
+            "facility_type_id": 25,
+            "translations": [
+                {
+                    "name": "Nightclub/DJ",
+                    "language": "en"
+                }
+            ],
+            "hotel_facility_type_id": 126,
+            "type": "free_or_paid"
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 127,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Private check-in/check-out"
+                }
+            ],
+            "name": "Private check-in/check-out",
+            "facility_type_id": 23
+        },
+        {
+            "name": "Shuttle service (free)",
+            "facility_type_id": 22,
+            "translations": [
+                {
+                    "name": "Shuttle service (free)",
+                    "language": "en"
+                }
+            ],
+            "hotel_facility_type_id": 128,
+            "type": "boolean"
+        },
+        {
+            "hotel_facility_type_id": 129,
+            "type": "boolean",
+            "facility_type_id": 22,
+            "name": "Shuttle service (additional charge)",
+            "translations": [
+                {
+                    "name": "Shuttle service (additional charge)",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "hotel_facility_type_id": 130,
+            "type": "boolean",
+            "name": "Ski equipment hire (on site)",
+            "facility_type_id": 2,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Ski equipment hire (on site)"
+                }
+            ]
+        },
+        {
+            "facility_type_id": 2,
+            "name": "Ski pass vendor",
+            "translations": [
+                {
+                    "name": "Ski pass vendor",
+                    "language": "en"
+                }
+            ],
+            "hotel_facility_type_id": 131,
+            "type": "boolean"
+        },
+        {
+            "translations": [
+                {
+                    "name": "Ski-to-door access",
+                    "language": "en"
+                }
+            ],
+            "name": "Ski-to-door access",
+            "facility_type_id": 2,
+            "type": "boolean",
+            "hotel_facility_type_id": 132
+        },
+        {
+            "name": "Special diet menus (on request)",
+            "facility_type_id": 7,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Special diet menus (on request)"
+                }
+            ],
+            "hotel_facility_type_id": 133,
+            "type": "boolean"
+        },
+        {
+            "facility_type_id": 26,
+            "name": "Trouser press",
+            "translations": [
+                {
+                    "name": "Trouser press",
+                    "language": "en"
+                }
+            ],
+            "hotel_facility_type_id": 134,
+            "type": "free_or_paid"
+        },
+        {
+            "hotel_facility_type_id": 135,
+            "type": "boolean",
+            "facility_type_id": 7,
+            "name": "Vending machine (drinks)",
+            "translations": [
+                {
+                    "name": "Vending machine (drinks)",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "hotel_facility_type_id": 136,
+            "type": "boolean",
+            "name": "Vending machine (snacks)",
+            "facility_type_id": 7,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Vending machine (snacks)"
+                }
+            ]
+        },
+        {
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 137,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Water sport facilities (on site)"
+                }
+            ],
+            "name": "Water sport facilities (on site)",
+            "facility_type_id": 2
+        },
+        {
+            "name": "Hot spring bath",
+            "facility_type_id": 21,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Hot spring bath"
+                }
+            ],
+            "hotel_facility_type_id": 138,
+            "type": "free_or_paid"
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 139,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Airport shuttle (free)"
+                }
+            ],
+            "name": "Airport shuttle (free)",
+            "facility_type_id": 22
+        },
+        {
+            "translations": [
+                {
+                    "name": "Airport shuttle (additional charge)",
+                    "language": "en"
+                }
+            ],
+            "name": "Airport shuttle (additional charge)",
+            "facility_type_id": 22,
+            "type": "boolean",
+            "hotel_facility_type_id": 140
+        },
+        {
+            "hotel_facility_type_id": 141,
+            "type": "boolean",
+            "name": "Shared kitchen",
+            "facility_type_id": 24,
+            "translations": [
+                {
+                    "name": "Shared kitchen",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 142,
+            "translations": [
+                {
+                    "name": "Lockers",
+                    "language": "en"
+                }
+            ],
+            "facility_type_id": 23,
+            "name": "Lockers"
+        },
+        {
+            "translations": [
+                {
+                    "name": "Shared lounge/TV area",
+                    "language": "en"
+                }
+            ],
+            "facility_type_id": 24,
+            "name": "Shared lounge/TV area",
+            "type": "boolean",
+            "hotel_facility_type_id": 143
+        },
+        {
+            "hotel_facility_type_id": 144,
+            "type": "free_or_paid",
+            "name": "Kids' club",
+            "facility_type_id": 25,
+            "translations": [
+                {
+                    "name": "Kids' club",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "translations": [
+                {
+                    "name": "Mini-market on site",
+                    "language": "en"
+                }
+            ],
+            "name": "Mini-market on site",
+            "facility_type_id": 28,
+            "type": "boolean",
+            "hotel_facility_type_id": 145
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Beachfront"
+                }
+            ],
+            "name": "Beachfront",
+            "facility_type_id": 21,
+            "type": "boolean",
+            "hotel_facility_type_id": 146
+        },
+        {
+            "translations": [
+                {
+                    "name": "Evening entertainment",
+                    "language": "en"
+                }
+            ],
+            "name": "Evening entertainment",
+            "facility_type_id": 25,
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 147
+        },
+        {
+            "name": "Water park",
+            "facility_type_id": 2,
+            "translations": [
+                {
+                    "name": "Water park",
+                    "language": "en"
+                }
+            ],
+            "hotel_facility_type_id": 148,
+            "type": "free_or_paid"
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Adult only"
+                }
+            ],
+            "facility_type_id": 29,
+            "name": "Adult only",
+            "type": "boolean",
+            "hotel_facility_type_id": 149
+        },
+        {
+            "hotel_facility_type_id": 158,
+            "type": "free_or_paid",
+            "facility_type_id": 26,
+            "name": "Daily housekeeping",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Daily housekeeping"
+                }
+            ]
+        },
+        {
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 159,
+            "translations": [
+                {
+                    "name": "Grocery deliveries",
+                    "language": "en"
+                }
+            ],
+            "name": "Grocery deliveries",
+            "facility_type_id": 7
+        },
+        {
+            "hotel_facility_type_id": 160,
+            "type": "boolean",
+            "name": "On-site parking",
+            "facility_type_id": 1,
+            "translations": [
+                {
+                    "name": "On-site parking",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "hotel_facility_type_id": 161,
+            "type": "boolean",
+            "name": "Private parking",
+            "facility_type_id": 1,
+            "translations": [
+                {
+                    "name": "Private parking",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 162,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Misc parking"
+                }
+            ],
+            "name": "Misc parking",
+            "facility_type_id": 1
+        },
+        {
+            "hotel_facility_type_id": 163,
+            "type": "boolean",
+            "facility_type_id": 1,
+            "name": "WiFi available in all areas",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "WiFi available in all areas"
+                }
+            ]
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 164,
+            "translations": [
+                {
+                    "name": "Paid WiFi",
+                    "language": "en"
+                }
+            ],
+            "name": "Paid WiFi",
+            "facility_type_id": 1
+        },
+        {
+            "hotel_facility_type_id": 166,
+            "type": "free_or_paid",
+            "facility_type_id": 21,
+            "name": "Open-air bath",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Open-air bath"
+                }
+            ]
+        },
+        {
+            "hotel_facility_type_id": 167,
+            "type": "free_or_paid",
+            "facility_type_id": 21,
+            "name": "Public Bath",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Public Bath"
+                }
+            ]
+        },
+        {
+            "hotel_facility_type_id": 168,
+            "type": "boolean",
+            "name": "Water slide",
+            "facility_type_id": 21,
+            "translations": [
+                {
+                    "name": "Water slide",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "translations": [
+                {
+                    "name": "Swimming pool toys",
+                    "language": "en"
+                }
+            ],
+            "name": "Swimming pool toys",
+            "facility_type_id": 21,
+            "type": "boolean",
+            "hotel_facility_type_id": 169
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Board games/puzzles"
+                }
+            ],
+            "facility_type_id": 25,
+            "name": "Board games/puzzles",
+            "type": "boolean",
+            "hotel_facility_type_id": 170
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 171,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Books, DVDs, music for children"
+                }
+            ],
+            "facility_type_id": 25,
+            "name": "Books, DVDs, music for children"
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Indoor play area"
+                }
+            ],
+            "facility_type_id": 25,
+            "name": "Indoor play area",
+            "type": "boolean",
+            "hotel_facility_type_id": 172
+        },
+        {
+            "facility_type_id": 25,
+            "name": "Kids' outdoor play equipment",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Kids' outdoor play equipment"
+                }
+            ],
+            "hotel_facility_type_id": 173,
+            "type": "boolean"
+        },
+        {
+            "hotel_facility_type_id": 174,
+            "type": "boolean",
+            "name": "Baby safety gates",
+            "facility_type_id": 25,
+            "translations": [
+                {
+                    "name": "Baby safety gates",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "hotel_facility_type_id": 175,
+            "type": "boolean",
+            "facility_type_id": 25,
+            "name": "Children television networks",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Children television networks"
+                }
+            ]
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Kid meals"
+                }
+            ],
+            "facility_type_id": 7,
+            "name": "Kid meals",
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 176
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 177,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Kid-friendly buffet"
+                }
+            ],
+            "name": "Kid-friendly buffet",
+            "facility_type_id": 7
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 179,
+            "translations": [
+                {
+                    "name": "Secured parking",
+                    "language": "en"
+                }
+            ],
+            "name": "Secured parking",
+            "facility_type_id": 22
+        },
+        {
+            "translations": [
+                {
+                    "name": "Street parking",
+                    "language": "en"
+                }
+            ],
+            "facility_type_id": 22,
+            "name": "Street parking",
+            "type": "boolean",
+            "hotel_facility_type_id": 180
+        },
+        {
+            "facility_type_id": 22,
+            "name": "Parking garage",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Parking garage"
+                }
+            ],
+            "hotel_facility_type_id": 181,
+            "type": "boolean"
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 182,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Electric vehicle charging station"
+                }
+            ],
+            "facility_type_id": 22,
+            "name": "Electric vehicle charging station"
+        },
+        {
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 183,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Public transport tickets"
+                }
+            ],
+            "name": "Public transport tickets",
+            "facility_type_id": 22
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 184,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Accessible parking"
+                }
+            ],
+            "name": "Accessible parking",
+            "facility_type_id": 22
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 185,
+            "translations": [
+                {
+                    "name": "Wheelchair accessible",
+                    "language": "en"
+                }
+            ],
+            "facility_type_id": 29,
+            "name": "Wheelchair accessible"
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 186,
+            "translations": [
+                {
+                    "name": "Toilet with grab rails",
+                    "language": "en"
+                }
+            ],
+            "facility_type_id": 29,
+            "name": "Toilet with grab rails"
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 187,
+            "translations": [
+                {
+                    "name": "Higher level toilet",
+                    "language": "en"
+                }
+            ],
+            "name": "Higher level toilet",
+            "facility_type_id": 29
+        },
+        {
+            "translations": [
+                {
+                    "name": "Lower bathroom sink",
+                    "language": "en"
+                }
+            ],
+            "facility_type_id": 29,
+            "name": "Lower bathroom sink",
+            "type": "boolean",
+            "hotel_facility_type_id": 188
+        },
+        {
+            "translations": [
+                {
+                    "name": "Emergency cord in bathroom",
+                    "language": "en"
+                }
+            ],
+            "facility_type_id": 29,
+            "name": "Emergency cord in bathroom",
+            "type": "boolean",
+            "hotel_facility_type_id": 189
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Rooftop pool"
+                }
+            ],
+            "name": "Rooftop pool",
+            "facility_type_id": 21,
+            "type": "boolean",
+            "hotel_facility_type_id": 192
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Infinity pool"
+                }
+            ],
+            "facility_type_id": 21,
+            "name": "Infinity pool",
+            "type": "boolean",
+            "hotel_facility_type_id": 193
+        },
+        {
+            "hotel_facility_type_id": 194,
+            "type": "boolean",
+            "facility_type_id": 21,
+            "name": "Pool with view",
+            "translations": [
+                {
+                    "name": "Pool with view",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "name": "Heated pool",
+            "facility_type_id": 21,
+            "translations": [
+                {
+                    "name": "Heated pool",
+                    "language": "en"
+                }
+            ],
+            "hotel_facility_type_id": 195,
+            "type": "boolean"
+        },
+        {
+            "hotel_facility_type_id": 196,
+            "type": "boolean",
+            "name": "Salt-water pool",
+            "facility_type_id": 21,
+            "translations": [
+                {
+                    "name": "Salt-water pool",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "facility_type_id": 21,
+            "name": "Plunge pool",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Plunge pool"
+                }
+            ],
+            "hotel_facility_type_id": 197,
+            "type": "boolean"
+        },
+        {
+            "hotel_facility_type_id": 198,
+            "type": "boolean",
+            "facility_type_id": 21,
+            "name": "Pool/beach towels",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Pool/beach towels"
+                }
+            ]
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 199,
+            "translations": [
+                {
+                    "name": "Pool bar",
+                    "language": "en"
+                }
+            ],
+            "name": "Pool bar",
+            "facility_type_id": 21
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 200,
+            "translations": [
+                {
+                    "name": "Shallow end",
+                    "language": "en"
+                }
+            ],
+            "name": "Shallow end",
+            "facility_type_id": 21
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 201,
+            "translations": [
+                {
+                    "name": "Pool cover",
+                    "language": "en"
+                }
+            ],
+            "facility_type_id": 21,
+            "name": "Pool cover"
+        },
+        {
+            "translations": [
+                {
+                    "name": "Wine/champagne",
+                    "language": "en"
+                }
+            ],
+            "name": "Wine/champagne",
+            "facility_type_id": 7,
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 203
+        },
+        {
+            "hotel_facility_type_id": 204,
+            "type": "free_or_paid",
+            "name": "Bottle of water",
+            "facility_type_id": 7,
+            "translations": [
+                {
+                    "name": "Bottle of water",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "name": "Fruits",
+            "facility_type_id": 7,
+            "translations": [
+                {
+                    "name": "Fruits",
+                    "language": "en"
+                }
+            ],
+            "hotel_facility_type_id": 205,
+            "type": "free_or_paid"
+        },
+        {
+            "translations": [
+                {
+                    "name": "Chocolate or cookies",
+                    "language": "en"
+                }
+            ],
+            "facility_type_id": 7,
+            "name": "Chocolate or cookies",
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 206
+        },
+        {
+            "name": "Tickets to attractions or shows",
+            "facility_type_id": 23,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Tickets to attractions or shows"
+                }
+            ],
+            "hotel_facility_type_id": 207,
+            "type": "free_or_paid"
+        },
+        {
+            "hotel_facility_type_id": 209,
+            "type": "free_or_paid",
+            "facility_type_id": 22,
+            "name": "Airport pick up",
+            "translations": [
+                {
+                    "name": "Airport pick up",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "translations": [
+                {
+                    "name": "Airport drop off",
+                    "language": "en"
+                }
+            ],
+            "name": "Airport drop off",
+            "facility_type_id": 22,
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 210
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 211,
+            "translations": [
+                {
+                    "name": "Visual aids: Braille",
+                    "language": "en"
+                }
+            ],
+            "name": "Visual aids: Braille",
+            "facility_type_id": 29
+        },
+        {
+            "hotel_facility_type_id": 212,
+            "type": "boolean",
+            "facility_type_id": 29,
+            "name": "Visual aids: Tactile signs",
+            "translations": [
+                {
+                    "name": "Visual aids: Tactile signs",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 213,
+            "translations": [
+                {
+                    "name": "Auditory guidance",
+                    "language": "en"
+                }
+            ],
+            "facility_type_id": 29,
+            "name": "Auditory guidance"
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Strollers"
+                }
+            ],
+            "name": "Strollers",
+            "facility_type_id": 25,
+            "type": "boolean",
+            "hotel_facility_type_id": 214
+        },
+        {
+            "name": "Tennis equipment",
+            "facility_type_id": 2,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Tennis equipment"
+                }
+            ],
+            "hotel_facility_type_id": 215,
+            "type": "free_or_paid"
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Badminton equipment"
+                }
+            ],
+            "name": "Badminton equipment",
+            "facility_type_id": 2,
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 216
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 217,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Pet basket"
+                }
+            ],
+            "name": "Pet basket",
+            "facility_type_id": 29
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 218,
+            "translations": [
+                {
+                    "name": "Pet bowls",
+                    "language": "en"
+                }
+            ],
+            "name": "Pet bowls",
+            "facility_type_id": 29
+        },
+        {
+            "hotel_facility_type_id": 219,
+            "type": "boolean",
+            "name": "On-site coffee house",
+            "facility_type_id": 7,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "On-site coffee house"
+                }
+            ]
+        },
+        {
+            "hotel_facility_type_id": 220,
+            "type": "free_or_paid",
+            "facility_type_id": 21,
+            "name": "Sun loungers or beach chairs",
+            "translations": [
+                {
+                    "name": "Sun loungers or beach chairs",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "facility_type_id": 21,
+            "name": "Sun umbrellas",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Sun umbrellas"
+                }
+            ],
+            "hotel_facility_type_id": 221,
+            "type": "free_or_paid"
+        },
+        {
+            "translations": [
+                {
+                    "name": "Outdoor furniture",
+                    "language": "en"
+                }
+            ],
+            "name": "Outdoor furniture",
+            "facility_type_id": 24,
+            "type": "boolean",
+            "hotel_facility_type_id": 222
+        },
+        {
+            "name": "Fence around pool",
+            "facility_type_id": 21,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Fence around pool"
+                }
+            ],
+            "hotel_facility_type_id": 223,
+            "type": "boolean"
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Picnic area"
+                }
+            ],
+            "name": "Picnic area",
+            "facility_type_id": 24,
+            "type": "boolean",
+            "hotel_facility_type_id": 224
+        },
+        {
+            "hotel_facility_type_id": 225,
+            "type": "boolean",
+            "name": "Outdoor fireplace",
+            "facility_type_id": 24,
+            "translations": [
+                {
+                    "name": "Outdoor fireplace",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 226,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Beauty Services"
+                }
+            ],
+            "name": "Beauty Services",
+            "facility_type_id": 21
+        },
+        {
+            "translations": [
+                {
+                    "name": "Facial treatments",
+                    "language": "en"
+                }
+            ],
+            "facility_type_id": 21,
+            "name": "Facial treatments",
+            "type": "boolean",
+            "hotel_facility_type_id": 227
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 228,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Waxing services"
+                }
+            ],
+            "facility_type_id": 21,
+            "name": "Waxing services"
+        },
+        {
+            "translations": [
+                {
+                    "name": "Make up services",
+                    "language": "en"
+                }
+            ],
+            "name": "Make up services",
+            "facility_type_id": 21,
+            "type": "boolean",
+            "hotel_facility_type_id": 229
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 230,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Hair treatments"
+                }
+            ],
+            "name": "Hair treatments",
+            "facility_type_id": 21
+        },
+        {
+            "name": "Manicure",
+            "facility_type_id": 21,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Manicure"
+                }
+            ],
+            "hotel_facility_type_id": 231,
+            "type": "boolean"
+        },
+        {
+            "translations": [
+                {
+                    "name": "Pedicure",
+                    "language": "en"
+                }
+            ],
+            "name": "Pedicure",
+            "facility_type_id": 21,
+            "type": "boolean",
+            "hotel_facility_type_id": 232
+        },
+        {
+            "facility_type_id": 21,
+            "name": "Hair cut",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Hair cut"
+                }
+            ],
+            "hotel_facility_type_id": 233,
+            "type": "boolean"
+        },
+        {
+            "translations": [
+                {
+                    "name": "Hair colouring",
+                    "language": "en"
+                }
+            ],
+            "name": "Hair colouring",
+            "facility_type_id": 21,
+            "type": "boolean",
+            "hotel_facility_type_id": 234
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Hair styling"
+                }
+            ],
+            "facility_type_id": 21,
+            "name": "Hair styling",
+            "type": "boolean",
+            "hotel_facility_type_id": 235
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Body Treatments"
+                }
+            ],
+            "facility_type_id": 21,
+            "name": "Body Treatments",
+            "type": "boolean",
+            "hotel_facility_type_id": 236
+        },
+        {
+            "name": "Body scrub",
+            "facility_type_id": 21,
+            "translations": [
+                {
+                    "name": "Body scrub",
+                    "language": "en"
+                }
+            ],
+            "hotel_facility_type_id": 237,
+            "type": "boolean"
+        },
+        {
+            "hotel_facility_type_id": 238,
+            "type": "boolean",
+            "name": "Body wrap",
+            "facility_type_id": 21,
+            "translations": [
+                {
+                    "name": "Body wrap",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 239,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Light therapy"
+                }
+            ],
+            "facility_type_id": 21,
+            "name": "Light therapy"
+        },
+        {
+            "hotel_facility_type_id": 240,
+            "type": "boolean",
+            "facility_type_id": 21,
+            "name": "Spa Facilities",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Spa Facilities"
+                }
+            ]
+        },
+        {
+            "facility_type_id": 21,
+            "name": "Steam room",
+            "translations": [
+                {
+                    "name": "Steam room",
+                    "language": "en"
+                }
+            ],
+            "hotel_facility_type_id": 241,
+            "type": "boolean"
+        },
+        {
+            "hotel_facility_type_id": 242,
+            "type": "boolean",
+            "facility_type_id": 21,
+            "name": "Spa lounge/relaxation area",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Spa lounge/relaxation area"
+                }
+            ]
+        },
+        {
+            "hotel_facility_type_id": 243,
+            "type": "boolean",
+            "name": "Foot bath",
+            "facility_type_id": 21,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Foot bath"
+                }
+            ]
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Spa/wellness packages"
+                }
+            ],
+            "facility_type_id": 21,
+            "name": "Spa/wellness packages",
+            "type": "boolean",
+            "hotel_facility_type_id": 244
+        },
+        {
+            "hotel_facility_type_id": 245,
+            "type": "boolean",
+            "facility_type_id": 21,
+            "name": "Back massage",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Back massage"
+                }
+            ]
+        },
+        {
+            "hotel_facility_type_id": 246,
+            "type": "boolean",
+            "name": "Neck massage",
+            "facility_type_id": 21,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Neck massage"
+                }
+            ]
+        },
+        {
+            "hotel_facility_type_id": 247,
+            "type": "boolean",
+            "name": "Foot massage",
+            "facility_type_id": 21,
+            "translations": [
+                {
+                    "name": "Foot massage",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "facility_type_id": 21,
+            "name": "Couples massage",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Couples massage"
+                }
+            ],
+            "hotel_facility_type_id": 248,
+            "type": "boolean"
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Head massage"
+                }
+            ],
+            "facility_type_id": 21,
+            "name": "Head massage",
+            "type": "boolean",
+            "hotel_facility_type_id": 249
+        },
+        {
+            "hotel_facility_type_id": 250,
+            "type": "boolean",
+            "facility_type_id": 21,
+            "name": "Hand massage",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Hand massage"
+                }
+            ]
+        },
+        {
+            "name": "Full body massage",
+            "facility_type_id": 21,
+            "translations": [
+                {
+                    "name": "Full body massage",
+                    "language": "en"
+                }
+            ],
+            "hotel_facility_type_id": 251,
+            "type": "boolean"
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 252,
+            "translations": [
+                {
+                    "name": "Massage chair",
+                    "language": "en"
+                }
+            ],
+            "name": "Massage chair",
+            "facility_type_id": 21
+        },
+        {
+            "facility_type_id": 21,
+            "name": "Fitness",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Fitness"
+                }
+            ],
+            "hotel_facility_type_id": 253,
+            "type": "boolean"
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Yoga classes"
+                }
+            ],
+            "facility_type_id": 21,
+            "name": "Yoga classes",
+            "type": "boolean",
+            "hotel_facility_type_id": 254
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Fitness classes"
+                }
+            ],
+            "name": "Fitness classes",
+            "facility_type_id": 21,
+            "type": "boolean",
+            "hotel_facility_type_id": 255
+        },
+        {
+            "translations": [
+                {
+                    "name": "Personal trainer",
+                    "language": "en"
+                }
+            ],
+            "facility_type_id": 21,
+            "name": "Personal trainer",
+            "type": "boolean",
+            "hotel_facility_type_id": 256
+        },
+        {
+            "hotel_facility_type_id": 257,
+            "type": "boolean",
+            "facility_type_id": 21,
+            "name": "Fitness/spa locker rooms",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Fitness/spa locker rooms"
+                }
+            ]
+        },
+        {
+            "name": "Kids' pool",
+            "facility_type_id": 21,
+            "translations": [
+                {
+                    "name": "Kids' pool",
+                    "language": "en"
+                }
+            ],
+            "hotel_facility_type_id": 258,
+            "type": "free_or_paid"
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Swimming pool"
+                }
+            ],
+            "facility_type_id": 21,
+            "name": "Swimming pool",
+            "type": "boolean",
+            "hotel_facility_type_id": 301
+        },
+        {
+            "translations": [
+                {
+                    "name": "Beach",
+                    "language": "en"
+                }
+            ],
+            "facility_type_id": 2,
+            "name": "Beach",
+            "type": "boolean",
+            "hotel_facility_type_id": 302
+        },
+        {
+            "name": "Shuttle service",
+            "facility_type_id": 22,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Shuttle service"
+                }
+            ],
+            "hotel_facility_type_id": 304,
+            "type": "boolean"
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 305,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Breakfast options"
+                }
+            ],
+            "name": "Breakfast options",
+            "facility_type_id": 7
+        },
+        {
+            "facility_type_id": 7,
+            "name": "Game drives",
+            "translations": [
+                {
+                    "name": "Game drives",
+                    "language": "en"
+                }
+            ],
+            "hotel_facility_type_id": 306,
+            "type": "boolean"
+        },
+        {
+            "translations": [
+                {
+                    "name": "Temporary art galleries",
+                    "language": "en"
+                }
+            ],
+            "facility_type_id": 2,
+            "name": "Temporary art galleries",
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 400
+        },
+        {
+            "translations": [
+                {
+                    "name": "Pub crawls",
+                    "language": "en"
+                }
+            ],
+            "name": "Pub crawls",
+            "facility_type_id": 2,
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 401
+        },
+        {
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 402,
+            "translations": [
+                {
+                    "name": "Stand-up comedy",
+                    "language": "en"
+                }
+            ],
+            "name": "Stand-up comedy",
+            "facility_type_id": 2
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Movie nights"
+                }
+            ],
+            "facility_type_id": 2,
+            "name": "Movie nights",
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 403
+        },
+        {
+            "translations": [
+                {
+                    "name": "Walking tours",
+                    "language": "en"
+                }
+            ],
+            "name": "Walking tours",
+            "facility_type_id": 2,
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 404
+        },
+        {
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 405,
+            "translations": [
+                {
+                    "name": "Bike tours",
+                    "language": "en"
+                }
+            ],
+            "name": "Bike tours",
+            "facility_type_id": 2
+        },
+        {
+            "translations": [
+                {
+                    "name": "Themed dinner nights",
+                    "language": "en"
+                }
+            ],
+            "name": "Themed dinner nights",
+            "facility_type_id": 2,
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 406
+        },
+        {
+            "facility_type_id": 2,
+            "name": "Happy hour",
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Happy hour"
+                }
+            ],
+            "hotel_facility_type_id": 407,
+            "type": "free_or_paid"
+        },
+        {
+            "name": "Tour or class about local culture",
+            "facility_type_id": 2,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Tour or class about local culture"
+                }
+            ],
+            "hotel_facility_type_id": 408,
+            "type": "free_or_paid"
+        },
+        {
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 409,
+            "translations": [
+                {
+                    "name": "Cooking class",
+                    "language": "en"
+                }
+            ],
+            "facility_type_id": 2,
+            "name": "Cooking class"
+        },
+        {
+            "hotel_facility_type_id": 410,
+            "type": "free_or_paid",
+            "name": "Live music/performance",
+            "facility_type_id": 2,
+            "translations": [
+                {
+                    "name": "Live music/performance",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "name": "Live sport events (broadcast)",
+            "facility_type_id": 2,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Live sport events (broadcast)"
+                }
+            ],
+            "hotel_facility_type_id": 411,
+            "type": "free_or_paid"
+        },
+        {
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 412,
+            "translations": [
+                {
+                    "name": "Archery",
+                    "language": "en"
+                }
+            ],
+            "facility_type_id": 2,
+            "name": "Archery"
+        },
+        {
+            "facility_type_id": 2,
+            "name": "Aerobics",
+            "translations": [
+                {
+                    "name": "Aerobics",
+                    "language": "en"
+                }
+            ],
+            "hotel_facility_type_id": 413,
+            "type": "free_or_paid"
+        },
+        {
+            "hotel_facility_type_id": 414,
+            "type": "free_or_paid",
+            "name": "Bingo",
+            "facility_type_id": 2,
+            "translations": [
+                {
+                    "name": "Bingo",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "name": "24-hour security",
+            "facility_type_id": 29,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "24-hour security"
+                }
+            ],
+            "hotel_facility_type_id": 418,
+            "type": "boolean"
+        },
+        {
+            "hotel_facility_type_id": 419,
+            "type": "boolean",
+            "name": "Key access",
+            "facility_type_id": 29,
+            "translations": [
+                {
+                    "name": "Key access",
+                    "language": "en"
+                }
+            ]
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 420,
+            "translations": [
+                {
+                    "name": "Key card access",
+                    "language": "en"
+                }
+            ],
+            "name": "Key card access",
+            "facility_type_id": 29
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Security alarm"
+                }
+            ],
+            "name": "Security alarm",
+            "facility_type_id": 29,
+            "type": "boolean",
+            "hotel_facility_type_id": 421
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 422,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Smoke alarms"
+                }
+            ],
+            "name": "Smoke alarms",
+            "facility_type_id": 29
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 423,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "CCTV in common areas"
+                }
+            ],
+            "facility_type_id": 29,
+            "name": "CCTV in common areas"
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 424,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "CCTV outside property"
+                }
+            ],
+            "facility_type_id": 29,
+            "name": "CCTV outside property"
+        },
+        {
+            "translations": [
+                {
+                    "name": "Fire extinguishers",
+                    "language": "en"
+                }
+            ],
+            "name": "Fire extinguishers",
+            "facility_type_id": 29,
+            "type": "boolean",
+            "hotel_facility_type_id": 425
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Bicycle parking"
+                }
+            ],
+            "name": "Bicycle parking",
+            "facility_type_id": 33,
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 426
+        },
+        {
+            "translations": [
+                {
+                    "name": "Telephone",
+                    "language": "en"
+                }
+            ],
+            "name": "Telephone",
+            "facility_type_id": 33,
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 427
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Postal service"
+                }
+            ],
+            "name": "Postal service",
+            "facility_type_id": 33,
+            "type": "boolean",
+            "hotel_facility_type_id": 428
+        },
+        {
+            "name": "Laundry room",
+            "facility_type_id": 33,
+            "translations": [
+                {
+                    "name": "Laundry room",
+                    "language": "en"
+                }
+            ],
+            "hotel_facility_type_id": 429,
+            "type": "free_or_paid"
+        },
+        {
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 430,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Ski Shuttle"
+                }
+            ],
+            "facility_type_id": 22,
+            "name": "Ski Shuttle"
+        },
+        {
+            "type": "boolean",
+            "hotel_facility_type_id": 431,
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Bath/Hot spring"
+                }
+            ],
+            "facility_type_id": 21,
+            "name": "Bath/Hot spring"
+        },
+        {
+            "translations": [
+                {
+                    "language": "en",
+                    "name": "Private bath"
+                }
+            ],
+            "name": "Private bath",
+            "facility_type_id": 21,
+            "type": "free_or_paid",
+            "hotel_facility_type_id": 432
+        }
+    ],
+    "meta": {
+        "ruid": "UmFuZG9tSVYkc2RlIyh9YQxh54Z38lWq4upoEqfow5WpDLWylDDEAoaBfnSNl1Lnb9oQiQAGdaSSZBBBxJ4xNhdlo7neLIk9ZQWlXiV9dJQ="
+    }
+}
