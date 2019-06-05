@@ -1,0 +1,86 @@
+"Parking" { "Parking" }
+"Restaurant" { "Restaurant" }
+"PetsAllowed" { "Pets Allowed" }
+"RoomService" { "Room Service" }
+"MeetingBanquetFacilities" { "Meeting Banquet Facilities" }
+"Bar" { "Bar" }
+"24HourFrontDesk" { "24 Hour Front Desk" }
+"TennisCourt" { "Tennis Court" }
+"Sauna" { "Sauna" }
+"FitnessCenter" { "Fitness Center" }
+"GolfCourseWithin3Km" { "Golf Course Within3 Km" }
+"Newspapers" { "Newspapers" }
+"Garden" { "Garden" }
+"Terrace" { "Terrace" }
+"NonSmokingRooms" { "Non Smoking Rooms" }
+"AirportShuttle" { "Airport Shuttle" }
+"Fishing" { "Fishing" }
+"BusinessCentre" { "Business Centre" }
+"BabysittingChildServices" { "Babysitting Child Services" }
+"Laundry" { "Laundry" }
+"DryCleaning" { "Dry Cleaning" }
+"ContinentalBreakfast" { "Continental Breakfast" }
+"FacilitiesForDisabledGuests" { "Facilities For Disabled Guests" }
+"Skiing" { "Skiing" }
+"BarberBeautyShop" { "Barber Beauty Shop" }
+"FamilyRooms" { "Family Rooms" }
+"GamesRoom" { "Games Room" }
+"Casino" { "Casino" }
+"VIPRoomFacilities" { "V I P Room Facilities" }
+"BreakfastInTheRoom" { "Breakfast In The Room" }
+"IroningService" { "Ironing Service" }
+"BridalSuite" { "Bridal Suite" }
+"FreeParking" { "Free Parking" }
+"InternetServices" { "Internet Services" }
+"Lift" { "Lift" }
+"ExpressCheckInCheckOut" { "Express Check In Check Out" }
+"Solarium" { "Solarium" }
+"SafetyDepositBox" { "Safety Deposit Box" }
+"ValetParking" { "Valet Parking" }
+"CurrencyExchange" { "Currency Exchange" }
+"SpaAndWellnessCenter" { "Spa And Wellness Center" }
+"Massage" { "Massage" }
+"ChildrensPlayground" { "Childrens Playground" }
+"Billiards" { "Billiards" }
+"TableTennis" { "Table Tennis" }
+"Karaoke" { "Karaoke" }
+"GiftShop" { "Gift Shop" }
+"Windsurfing" { "Windsurfing" }
+"Darts" { "Darts" }
+"HotTubJacuzzi" { "Hot Tub Jacuzzi" }
+"SoundproofRooms" { "Soundproof Rooms" }
+"BicycleRentalAdditionalCharge" { "Bicycle Rental Additional Charge" }
+"Library" { "Library" }
+"Shoeshine" { "Shoeshine" }
+"Canoeing" { "Canoeing" }
+"Hiking" { "Hiking" }
+"ChapelShrine" { "Chapel Shrine" }
+"BBQFacilities" { "B B Q Facilities" }
+"PackedLunches" { "Packed Lunches" }
+"CarHire" { "Car Hire" }
+"Cycling" { "Cycling" }
+"Bowling" { "Bowling" }
+"TourDesk" { "Tour Desk" }
+"Hammam" { "Hammam" }
+"Heating" { "Heating" }
+"FaxPhotocopying" { "Fax Photocopying" }
+"Diving" { "Diving" }
+"HorseRiding" { "Horse Riding" }
+"Squash" { "Squash" }
+"TicketService" { "Ticket Service" }
+"Snorkelling" { "Snorkelling" }
+"LuggageStorage" { "Luggage Storage" }
+"ShopsOnSite" { "Shops On Site" }
+"WiFi" { "Wi Fi" }
+"MiniGolf" { "Mini Golf" }
+"SkiStorage" { "Ski Storage" }
+"SkiSchool" { "Ski School" }
+"AllergyFreeRoom" { "Allergy Free Room" }
+"IndoorPool" { "Indoor Pool" }
+"OutdoorPool" { "Outdoor Pool" }
+"FreeWiFi" { "Free Wi Fi" }
+"NonSmokingThroughout" { "Non Smoking Throughout" }
+"AirConditioning" { "Air Conditioning" }
+"DesignatedSmokingArea" { "Designated Smoking Area" }
+"ATMCashMachineOnSite" { "A T M Cash Machine On Site" }
+"PrivateBeachArea" { "Private Beach Area" }
