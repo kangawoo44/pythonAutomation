@@ -1,86 +1,176 @@
-"Parking" { "Parking" }
-"Restaurant" { "Restaurant" }
-"PetsAllowed" { "Pets Allowed" }
-"RoomService" { "Room Service" }
-"MeetingBanquetFacilities" { "Meeting Banquet Facilities" }
-"Bar" { "Bar" }
-"24HourFrontDesk" { "24 Hour Front Desk" }
-"TennisCourt" { "Tennis Court" }
-"Sauna" { "Sauna" }
-"FitnessCenter" { "Fitness Center" }
-"GolfCourseWithin3Km" { "Golf Course Within3 Km" }
-"Newspapers" { "Newspapers" }
-"Garden" { "Garden" }
-"Terrace" { "Terrace" }
-"NonSmokingRooms" { "Non Smoking Rooms" }
-"AirportShuttle" { "Airport Shuttle" }
-"Fishing" { "Fishing" }
-"BusinessCentre" { "Business Centre" }
-"BabysittingChildServices" { "Babysitting Child Services" }
-"Laundry" { "Laundry" }
-"DryCleaning" { "Dry Cleaning" }
-"ContinentalBreakfast" { "Continental Breakfast" }
-"FacilitiesForDisabledGuests" { "Facilities For Disabled Guests" }
-"Skiing" { "Skiing" }
-"BarberBeautyShop" { "Barber Beauty Shop" }
-"FamilyRooms" { "Family Rooms" }
-"GamesRoom" { "Games Room" }
-"Casino" { "Casino" }
-"VIPRoomFacilities" { "V I P Room Facilities" }
-"BreakfastInTheRoom" { "Breakfast In The Room" }
-"IroningService" { "Ironing Service" }
-"BridalSuite" { "Bridal Suite" }
-"FreeParking" { "Free Parking" }
-"InternetServices" { "Internet Services" }
-"Lift" { "Lift" }
-"ExpressCheckInCheckOut" { "Express Check In Check Out" }
-"Solarium" { "Solarium" }
+"TeaCoffeeMaker" { "Tea Coffee Maker" }
+"InternetFacilities" { "Internet Facilities" }
+"Minibar" { "Minibar" }
+"Shower" { "Shower" }
+"Bath" { "Bath" }
 "SafetyDepositBox" { "Safety Deposit Box" }
-"ValetParking" { "Valet Parking" }
-"CurrencyExchange" { "Currency Exchange" }
-"SpaAndWellnessCenter" { "Spa And Wellness Center" }
-"Massage" { "Massage" }
-"ChildrensPlayground" { "Childrens Playground" }
-"Billiards" { "Billiards" }
-"TableTennis" { "Table Tennis" }
-"Karaoke" { "Karaoke" }
-"GiftShop" { "Gift Shop" }
-"Windsurfing" { "Windsurfing" }
-"Darts" { "Darts" }
-"HotTubJacuzzi" { "Hot Tub Jacuzzi" }
-"SoundproofRooms" { "Soundproof Rooms" }
-"BicycleRentalAdditionalCharge" { "Bicycle Rental Additional Charge" }
-"Library" { "Library" }
-"Shoeshine" { "Shoeshine" }
-"Canoeing" { "Canoeing" }
-"Hiking" { "Hiking" }
-"ChapelShrine" { "Chapel Shrine" }
-"BBQFacilities" { "B B Q Facilities" }
-"PackedLunches" { "Packed Lunches" }
-"CarHire" { "Car Hire" }
-"Cycling" { "Cycling" }
-"Bowling" { "Bowling" }
-"TourDesk" { "Tour Desk" }
-"Hammam" { "Hammam" }
-"Heating" { "Heating" }
-"FaxPhotocopying" { "Fax Photocopying" }
-"Diving" { "Diving" }
-"HorseRiding" { "Horse Riding" }
-"Squash" { "Squash" }
-"TicketService" { "Ticket Service" }
-"Snorkelling" { "Snorkelling" }
-"LuggageStorage" { "Luggage Storage" }
-"ShopsOnSite" { "Shops On Site" }
-"WiFi" { "Wi Fi" }
-"MiniGolf" { "Mini Golf" }
-"SkiStorage" { "Ski Storage" }
-"SkiSchool" { "Ski School" }
-"AllergyFreeRoom" { "Allergy Free Room" }
-"IndoorPool" { "Indoor Pool" }
-"OutdoorPool" { "Outdoor Pool" }
-"FreeWiFi" { "Free Wi Fi" }
-"NonSmokingThroughout" { "Non Smoking Throughout" }
+"PayPerViewChannels" { "Pay Per View Channels" }
+"TV" { "T V" }
+"Telephone" { "Telephone" }
+"Fax" { "Fax" }
 "AirConditioning" { "Air Conditioning" }
-"DesignatedSmokingArea" { "Designated Smoking Area" }
-"ATMCashMachineOnSite" { "A T M Cash Machine On Site" }
-"PrivateBeachArea" { "Private Beach Area" }
+"Hairdryer" { "Hairdryer" }
+"WakeUpServiceAlarmClock" { "Wake Up Service Alarm Clock" }
+"HotTub" { "Hot Tub" }
+"Iron" { "Iron" }
+"Kitchenette" { "Kitchenette" }
+"Balcony" { "Balcony" }
+"TrouserPress" { "Trouser Press" }
+"Bathrobe" { "Bathrobe" }
+"SpaBath" { "Spa Bath" }
+"Radio" { "Radio" }
+"Refrigerator" { "Refrigerator" }
+"Desk" { "Desk" }
+"SharedBathroom" { "Shared Bathroom" }
+"IroningFacilities" { "Ironing Facilities" }
+"SeatingArea" { "Seating Area" }
+"FreeToiletries" { "Free Toiletries" }
+"DVDPlayer" { "D V D Player" }
+"CDPlayer" { "C D Player" }
+"Fan" { "Fan" }
+"Toilet" { "Toilet" }
+"Microwave" { "Microwave" }
+"Dishwasher" { "Dishwasher" }
+"WashingMachine" { "Washing Machine" }
+"Video" { "Video" }
+"VideoGames" { "Video Games" }
+"Patio" { "Patio" }
+"PrivateBathroom" { "Private Bathroom" }
+"ExtraLongBeds2MetersAndUp" { "Extra Long Beds2 Meters And Up" }
+"Heating" { "Heating" }
+"DressingRoom" { "Dressing Room" }
+"SharedToilet" { "Shared Toilet" }
+"Slippers" { "Slippers" }
+"SatelliteChannels" { "Satellite Channels" }
+"Kitchen" { "Kitchen" }
+"WirelessInternet" { "Wireless Internet" }
+"CableChannels" { "Cable Channels" }
+"BathOrShower" { "Bath Or Shower" }
+"Carpeted" { "Carpeted" }
+"Fireplace" { "Fireplace" }
+"AdditionalToilet" { "Additional Toilet" }
+"InterconnectedRoomsAvailable" { "Interconnected Rooms Available" }
+"LaptopSafe" { "Laptop Safe" }
+"FlatScreenTV" { "Flat Screen T V" }
+"PrivateEntrance" { "Private Entrance" }
+"Sofa" { "Sofa" }
+"Soundproofing" { "Soundproofing" }
+"TileMarbleFloor" { "Tile Marble Floor" }
+"View" { "View" }
+"HardwoodOrParquetFloors" { "Hardwood Or Parquet Floors" }
+"WakeIpService" { "Wake Ip Service" }
+"AlarmClock" { "Alarm Clock" }
+"DiningArea" { "Dining Area" }
+"ElectricKettle" { "Electric Kettle" }
+"ExecutiveLoungeAccess" { "Executive Lounge Access" }
+"iPodDock" { "i Pod Dock" }
+"Kitchenware" { "Kitchenware" }
+"MosquitoNet" { "Mosquito Net" }
+"TowelsSheetsExtraFee" { "Towels Sheets Extra Fee" }
+"Sauna" { "Sauna" }
+"PrivatePool" { "Private Pool" }
+"TumbleDryer" { "Tumble Dryer" }
+"WardrobeOrCloset" { "Wardrobe Or Closet" }
+"Oven" { "Oven" }
+"Stovetop" { "Stovetop" }
+"Toaster" { "Toaster" }
+"Barbecue" { "Barbecue" }
+"Bidet" { "Bidet" }
+"Computer" { "Computer" }
+"iPad" { "i Pad" }
+"GameConsole" { "Game Console" }
+"GameConsoleXbox360" { "Game Console Xbox360" }
+"GameConsolePS2" { "Game Console P S2" }
+"GameConsolePS3" { "Game Console P S3" }
+"GameConsoleNintendoWii" { "Game Console Nintendo Wii" }
+"SeaView" { "Sea View" }
+"LakeView" { "Lake View" }
+"GardenView" { "Garden View" }
+"PoolView" { "Pool View" }
+"MountainView" { "Mountain View" }
+"LandmarkView" { "Landmark View" }
+"Laptop" { "Laptop" }
+"Hypoallergenic" { "Hypoallergenic" }
+"CleaningProducts" { "Cleaning Products" }
+"ElectricBlankets" { "Electric Blankets" }
+"AdditionalBathroom" { "Additional Bathroom" }
+"BluRayPlayer" { "Blu Ray Player" }
+"CoffeeMachine" { "Coffee Machine" }
+"CityView" { "City View" }
+"RiverView" { "River View" }
+"Terrace" { "Terrace" }
+"Towels" { "Towels" }
+"Linen" { "Linen" }
+"DiningTable" { "Dining Table" }
+"ChildrensHighChair" { "Childrens High Chair" }
+"OutdoorFurniture" { "Outdoor Furniture" }
+"OutdoorDiningArea" { "Outdoor Dining Area" }
+"EntireUnitLocatedOnGroundFloor" { "Entire Unit Located On Ground Floor" }
+"UpperFloorsAccessibleByLift" { "Upper Floors Accessible By Lift" }
+"UpperFloorsAccessibleByStairsOnly" { "Upper Floors Accessible By Stairs Only" }
+"EntireUnitWheelchairAccessible" { "Entire Unit Wheelchair Accessible" }
+"Detached" { "Detached" }
+"SemiDetached" { "Semi Detached" }
+"PrivateFlatInBuilding" { "Private Flat In Building" }
+"ClothesRack" { "Clothes Rack" }
+"FoldUpBed" { "Fold Up Bed" }
+"DryingRackForClothing" { "Drying Rack For Clothing" }
+"ToiletPaper" { "Toilet Paper" }
+"ChildSafetySocketCovers" { "Child Safety Socket Covers" }
+"BoardGamesPuzzles" { "Board Games Puzzles" }
+"BooksDVDsOrMusicForChildren" { "Books D V Ds Or Music For Children" }
+"BabySafetyGates" { "Baby Safety Gates" }
+"SofaBed" { "Sofa Bed" }
+"ToiletWithGrabRails" { "Toilet With Grab Rails" }
+"AdaptedBath" { "Adapted Bath" }
+"RollInShower" { "Roll In Shower" }
+"WalkInShower" { "Walk In Shower" }
+"RaisedToilet" { "Raised Toilet" }
+"LoweredSink" { "Lowered Sink" }
+"EmergencyCordInBathroom" { "Emergency Cord In Bathroom" }
+"ShowerChair" { "Shower Chair" }
+"RooftopPool" { "Rooftop Pool" }
+"InfinityPool" { "Infinity Pool" }
+"PoolWithAView" { "Pool With A View" }
+"HeatedPool" { "Heated Pool" }
+"SaltWaterPool" { "Salt Water Pool" }
+"PlungePool" { "Plunge Pool" }
+"PoolTowels" { "Pool Towels" }
+"ShallowEnd" { "Shallow End" }
+"PoolCover" { "Pool Cover" }
+"WineOrChampagne" { "Wine Or Champagne" }
+"BottleOfWater" { "Bottle Of Water" }
+"Fruits" { "Fruits" }
+"ChocolateOrCookies" { "Chocolate Or Cookies" }
+"TrashCans" { "Trash Cans" }
+"WineGlasses" { "Wine Glasses" }
+"GameConsoleXboxOne" { "Game Console Xbox One" }
+"GameConsoleWii U" { "Game Console Wii  U" }
+"GameConsolePS4" { "Game Console P S4" }
+"ChildrensCotsCribs" { "Childrens Cots Cribs" }
+"Toothbrush" { "Toothbrush" }
+"Shampoo" { "Shampoo" }
+"Conditioner" { "Conditioner" }
+"BodySoap" { "Body Soap" }
+"ShowerCap" { "Shower Cap" }
+"Pajamas" { "Pajamas" }
+"Yukata" { "Yukata" }
+"SocketNearTheBed" { "Socket Near The Bed" }
+"Adapter" { "Adapter" }
+"FeatherPillow" { "Feather Pillow" }
+"NonFeatherPillow" { "Non Feather Pillow" }
+"HypoallergenicPillow" { "Hypoallergenic Pillow" }
+"AccessibleByLift" { "Accessible By Lift" }
+"InnerCourtyardView" { "Inner Courtyard View" }
+"QuietStreetView" { "Quiet Street View" }
+"PortableWifi" { "Portable Wifi" }
+"Smartphone" { "Smartphone" }
+"StreamingServiceSuchAsNetflix" { "Streaming Service Such As Netflix" }
+"Lockers" { "Lockers" }
+"SmokeAlarm" { "Smoke Alarm" }
+"FireExtinguisher" { "Fire Extinguisher" }
+"KeyAccess" { "Key Access" }
+"KeyCardAccess" { "Key Card Access" }
+"ReadingLight" { "Reading Light" }
+"Earplugs" { "Earplugs" }
+"PrivacyCurtain" { "Privacy Curtain" }
