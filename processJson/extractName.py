@@ -1,4 +1,4 @@
-file_object = open("./RoomFacilityTypes_enumSource.txt", 'r')
+file_object = open("./HotelFacilityTypes_enumSource.txt", 'r')
 outfile = open("extractedNames.txt", 'w+')
 for line in file_object:
     newLine = line.replace("symbol (", "")
