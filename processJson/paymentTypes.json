@@ -1,0 +1,342 @@
+{
+    "result": [
+        {
+            "payment_id": 1,
+            "name": "American Express",
+            "bookable": true
+        },
+        {
+            "name": "Visa",
+            "payment_id": 2,
+            "bookable": true
+        },
+        {
+            "payment_id": 3,
+            "name": "Euro/Mastercard",
+            "bookable": true
+        },
+        {
+            "bookable": false,
+            "name": "Carte Bleue",
+            "payment_id": 4
+        },
+        {
+            "bookable": true,
+            "payment_id": 5,
+            "name": "Diners Club"
+        },
+        {
+            "name": "JCB",
+            "payment_id": 7,
+            "bookable": true
+        },
+        {
+            "name": "PIN",
+            "payment_id": 8,
+            "bookable": false
+        },
+        {
+            "name": "Red 6000",
+            "payment_id": 9,
+            "bookable": false
+        },
+        {
+            "bookable": false,
+            "payment_id": 10,
+            "name": "Maestro"
+        },
+        {
+            "bookable": true,
+            "name": "Discover",
+            "payment_id": 11
+        },
+        {
+            "bookable": false,
+            "name": "Bancontact",
+            "payment_id": 12
+        },
+        {
+            "payment_id": 13,
+            "name": "Solo",
+            "bookable": false
+        },
+        {
+            "payment_id": 14,
+            "name": "Switch",
+            "bookable": true
+        },
+        {
+            "bookable": true,
+            "name": "Carte Blanche",
+            "payment_id": 15
+        },
+        {
+            "bookable": false,
+            "payment_id": 16,
+            "name": "NICOS"
+        },
+        {
+            "payment_id": 17,
+            "name": "UC",
+            "bookable": false
+        },
+        {
+            "name": "No creditcards accepted, only cash",
+            "payment_id": 18,
+            "bookable": false
+        },
+        {
+            "bookable": false,
+            "payment_id": 19,
+            "name": "Bankcard"
+        },
+        {
+            "name": "CartaSi",
+            "payment_id": 21,
+            "bookable": false
+        },
+        {
+            "payment_id": 22,
+            "name": "Argencard",
+            "bookable": true
+        },
+        {
+            "name": "Cabal",
+            "payment_id": 23,
+            "bookable": false
+        },
+        {
+            "bookable": false,
+            "name": "Red Compra",
+            "payment_id": 25
+        },
+        {
+            "bookable": false,
+            "payment_id": 26,
+            "name": "Other Cards"
+        },
+        {
+            "payment_id": 27,
+            "name": "Greatwall",
+            "bookable": false
+        },
+        {
+            "payment_id": 28,
+            "name": "Peony",
+            "bookable": false
+        },
+        {
+            "payment_id": 29,
+            "name": "Dragon",
+            "bookable": false
+        },
+        {
+            "name": "Pacific",
+            "payment_id": 30,
+            "bookable": true
+        },
+        {
+            "bookable": false,
+            "name": "Jin Sui",
+            "payment_id": 31
+        },
+        {
+            "name": "Eftpos",
+            "payment_id": 32,
+            "bookable": false
+        },
+        {
+            "payment_id": 34,
+            "name": "Hipercard",
+            "bookable": true
+        },
+        {
+            "bookable": false,
+            "name": "UnionPay debit card",
+            "payment_id": 35
+        },
+        {
+            "bookable": true,
+            "name": "UnionPay credit card",
+            "payment_id": 36
+        },
+        {
+            "bookable": false,
+            "name": "EC-Card",
+            "payment_id": 37
+        },
+        {
+            "bookable": false,
+            "name": "BC-Card",
+            "payment_id": 38
+        },
+        {
+            "bookable": false,
+            "name": "KH Széchényi Pihenõkártya",
+            "payment_id": 41
+        },
+        {
+            "bookable": false,
+            "name": "MKB Széchényi Pihenõkártya",
+            "payment_id": 42
+        },
+        {
+            "payment_id": 43,
+            "name": "OTP Széchényi Pihenõkártya",
+            "bookable": false
+        },
+        {
+            "bookable": true,
+            "name": "UnionPay credit card",
+            "payment_id": 44
+        },
+        {
+            "bookable": false,
+            "payment_id": 45,
+            "name": "Cash"
+        },
+        {
+            "payment_id": 46,
+            "name": "PayPal",
+            "bookable": false
+        },
+        {
+            "payment_id": 47,
+            "name": "Cheque (domestic only)",
+            "bookable": false
+        },
+        {
+            "name": "ANCV chèques-vacances",
+            "payment_id": 48,
+            "bookable": false
+        },
+        {
+            "bookable": false,
+            "payment_id": 49,
+            "name": "PayPlug"
+        },
+        {
+            "payment_id": 50,
+            "name": "Euro 6000",
+            "bookable": false
+        },
+        {
+            "payment_id": 51,
+            "name": "Postepay",
+            "bookable": false
+        },
+        {
+            "name": "Sistema 4B",
+            "payment_id": 52,
+            "bookable": false
+        },
+        {
+            "name": "PagSeguro",
+            "payment_id": 53,
+            "bookable": false
+        },
+        {
+            "name": "Elo Creditcard",
+            "payment_id": 54,
+            "bookable": true
+        },
+        {
+            "name": "Bcash",
+            "payment_id": 55,
+            "bookable": false
+        },
+        {
+            "bookable": false,
+            "name": "Interac e-Transfer",
+            "payment_id": 56
+        },
+        {
+            "payment_id": 57,
+            "name": "M-Pesa",
+            "bookable": false
+        },
+        {
+            "bookable": false,
+            "name": "Knet",
+            "payment_id": 58
+        },
+        {
+            "bookable": false,
+            "name": "Western Union",
+            "payment_id": 59
+        },
+        {
+            "name": "Apple Pay",
+            "payment_id": 60,
+            "bookable": false
+        },
+        {
+            "payment_id": 61,
+            "name": "Square Cash",
+            "bookable": false
+        },
+        {
+            "bookable": false,
+            "name": "iDeal",
+            "payment_id": 62
+        },
+        {
+            "name": "BankAxept",
+            "payment_id": 63,
+            "bookable": false
+        },
+        {
+            "name": "Reka-Check",
+            "payment_id": 64,
+            "bookable": false
+        },
+        {
+            "bookable": false,
+            "name": "Paysera.com",
+            "payment_id": 65
+        },
+        {
+            "payment_id": 66,
+            "name": "BankLink",
+            "bookable": false
+        },
+        {
+            "bookable": false,
+            "payment_id": 67,
+            "name": "Alipay"
+        },
+        {
+            "bookable": false,
+            "payment_id": 68,
+            "name": "Tenpay"
+        },
+        {
+            "payment_id": 69,
+            "name": "Lastschrift",
+            "bookable": false
+        },
+        {
+            "name": "Sadad",
+            "payment_id": 70,
+            "bookable": false
+        },
+        {
+            "name": "Qiwi",
+            "payment_id": 71,
+            "bookable": false
+        },
+        {
+            "name": "AirPlus",
+            "payment_id": 72,
+            "bookable": false
+        },
+        {
+            "payment_id": 73,
+            "name": "Virtual Credit Card",
+            "bookable": false
+        }
+    ],
+    "meta": {
+        "ruid": "UmFuZG9tSVYkc2RlIyh9YTNaKliU2Ve3ivERNXriwp2V9ro3fyagntLI0imoOwgXOa7xDP9mBxFV/kOOgFW3hX4D4iyM5K/SiL0g4nFlW30="
+    }
+}
