@@ -171,21 +171,6 @@
             "bookable": false
         },
         {
-            "name": "KH Széchényi Pihenõkártya",
-            "payment_id": 41,
-            "bookable": false
-        },
-        {
-            "bookable": false,
-            "name": "MKB Széchényi Pihenõkártya",
-            "payment_id": 42
-        },
-        {
-            "name": "OTP Széchényi Pihenõkártya",
-            "payment_id": 43,
-            "bookable": false
-        },
-        {
             "bookable": true,
             "payment_id": 44,
             "name": "UnionPay credit card"
@@ -204,11 +189,6 @@
             "bookable": false,
             "name": "Cheque (domestic only)",
             "payment_id": 47
-        },
-        {
-            "name": "ANCV chèques-vacances",
-            "payment_id": 48,
-            "bookable": false
         },
         {
             "bookable": false,
